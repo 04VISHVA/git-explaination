@@ -1,0 +1,55 @@
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Page container */
+body {
+    padding: 20px;
+}
+
+/* Headings */
+h1 {
+    color: #0078D7;
+    text-align: center;
+}
+
+h2 {
+    color: #005a9e;
+    border-bottom: 2px solid #0078D7;
+    padding-bottom: 5px;
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Lists */
+ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+/* Links */
+a {
+    color: #0078D7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Add a simple box style */
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
